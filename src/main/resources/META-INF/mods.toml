@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="education_expansion"
+version="1.0.0"
+displayName="Education Expansion"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://naidru.ca"
+authors="Naidru"
+description="Adds the Minecraft Education Edition items to java"
+
+[[dependencies.education_expansion]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
